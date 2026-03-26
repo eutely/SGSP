@@ -46,9 +46,9 @@ By comparing the genomes of S. spicata, P. latifolius, and rice, it was determin
   * **Oryzoideae**: Maintained extremely conserved karyotypes with little to no change up to their respective crown nodes.
   * **Bambusoideae**: 
   * **Pooideae**: Experienced extensive structural changes.
-  ** **Brachypodieae** 
-  ** **Poaeae**: The lineage underwent 1 end-end joining (EEJ) and 4 nested chromosome fusion (NCF) events. This reduced the chromosome number to 7.
-  ** **Triticeae**: Underwent an additional reciprocal translocation (RT) event following its divergence from the ancestral node of Poaeae and Triticeae.
+    * **Brachypodieae** 
+    * **Poaeae**: The lineage underwent 1 end-end joining (EEJ) and 4 nested chromosome fusion (NCF) events. This reduced the chromosome number to 7.
+    * **Triticeae**: Underwent an additional reciprocal translocation (RT) event following its divergence from the ancestral node of Poaeae and Triticeae.
 #### **PACMAD Clade Dynamics**:
   * **Arundinoideae**: The karyotype of the most common ancestor of the PACMAD clade is identical to the post-ρ AGK, an ancestral state that is supported by genomes within the Arundinoideae.
   * **Chloridoideae & Panicoideae**: The crown nodes of these subfamilies followed a shared trajectory, experiencing 1 RT, 1 EEJ, and 1 NCF event. This sequence resulted in a chromosome number reduction from 12 to 10. 
