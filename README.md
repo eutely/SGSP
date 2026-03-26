@@ -6,4 +6,4 @@ This repository contains the source data and computational scripts used to inves
 
 # Citation
 
-- Yun-Long Liu, Cen Guo, Shu-Yang Gao, Dun-Jin Fan, Alex D. Twyford, Hong Wu, Meng Wang, Peter M. Hollingsworth, Elizabeth A. Kellogg, De-Zhu Li, Peng-Fei Ma. (2026). **A chromosome-level Streptochaeta genome elucidates the ancestral karyotype and allopolyploid origin of grasses**. 
+- Yun-Long Liu, Cen Guo, Shu-Yang Gao, Dun-Jin Fan, Alex D. Twyford, Hong Wu, Meng Wang, Peter M. Hollingsworth, Elizabeth A. Kellogg, De-Zhu Li, Peng-Fei Ma. (2026). **A chromosome-level Streptochaeta genome elucidates the ancestral karyotype and allopolyploid origin of grasses**. (Under Review)
