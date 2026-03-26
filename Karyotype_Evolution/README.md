@@ -46,10 +46,12 @@ By comparing the genomes of S. spicata, P. latifolius, and rice, it was determin
 ### **BOP Clade Dynamics**:
   * **Oryzoideae**: Maintained extremely conserved karyotypes with little to no change up to their respective crown nodes.
   * **Bambusoideae**: Identical to the post-ρ AGK.
+    ![Bambusoideae](./png/Bambusoideae.jpg)
   * **Pooideae**: Experienced extensive structural changes.
     * **Brachypodieae** ：Underwent two nested chromosome fusion (NCF) events.
     * **Poaeae**: The lineage underwent 1 end-end joining (EEJ) and 4 nested chromosome fusion (NCF) events. This reduced the chromosome number to 7.
     * **Triticeae**: Underwent an additional reciprocal translocation (RT) event following its divergence from the ancestral node of Poaeae and Triticeae.
 ### **PACMAD Clade Dynamics**:
-  * **Arundinoideae**: Identical to the post-ρ AGK, demonstrated by the complete chromosomal collinearity between Phragmites australis and rice. 
+  * **Arundinoideae**: Identical to the post-ρ AGK, demonstrated by the complete chromosomal collinearity between Phragmites australis and rice.
+    ![Arundinoideae](./png/Arundinoideae.jpg)
   * **Chloridoideae & Panicoideae**: The crown nodes of these subfamilies followed a shared trajectory, experiencing 1 RT, 1 EEJ, and 1 NCF event. This sequence resulted in a chromosome number reduction from 12 to 10. 
