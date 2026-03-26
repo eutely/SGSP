@@ -3,7 +3,7 @@
 This folder contains the data, scripts, and configuration files utilized to reconstruct the species tree and estimate evolutionary divergence times across major grass lineages. 
 
 #### 1. Species Tree Reconstruction
-We reconstructed a maximum likelihood (ML) phylogeny using a concatenated alignment of 295 single-copy orthologous genes (`merge.final.fa`)[cite: 389, 390]. [cite_start]The inference was performed using RAxML-NG under the GTR+G substitution model, evaluating node support with 1,000 bootstrap replicates[cite: 391].
+We reconstructed a maximum likelihood (ML) phylogeny using a concatenated alignment of 295 single-copy orthologous genes (`merge.final.fa`). The inference was performed using RAxML-NG under the GTR+G substitution model, evaluating node support with 1,000 bootstrap replicates.
 
 **Command:**
 ```bash
