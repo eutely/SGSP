@@ -1,7 +1,7 @@
 # Streptochaeta Genome Sequencing Project
 
 Streptochaeta Genome Sequencing Project (SGSP) is focused on the chromosome-level genome assembly of *Streptochaeta spicata*. 
-This repository is currently being developed and houses workflows and scripts that are utilized for comparative genomic analyses across major grass lineages, the reconstruction of the ancestral grass karyotype (AGK), and the investigation of the ρ-whole-genome duplication (ρ-WGD).
+This repository contains the source data and computational scripts used to investigate the ρ-whole-genome duplication (ρ-WGD), reconstruct the ancestral grass karyotype (AGK), and perform comparative genomic analyses across major grass lineages.
 
 
 # Citation
