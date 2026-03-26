@@ -3,7 +3,7 @@
 This module contains the source data and analytical scripts used to reconstruct the ancestral grass karyotype (AGK) and trace chromosomal rearrangements across major grass lineages.
 
 * **`Species/`**: Contains the input genomic data (e.g., coding sequences, annotations) for the diverse grass species and outgroup taxa used in our comparative analyses.
-* 
+
 | Abbreviation | Scientific Name | Subfamily |
 | :--- | :--- | :--- |
 | **stSp** | *Streptochaeta spicata* | Anomochlooideae |
