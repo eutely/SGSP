@@ -7,21 +7,11 @@ This module contains the source data and analytical scripts used to reconstruct 
 | Abbreviation | Scientific Name | Subfamily |
 | :--- | :--- | :--- |
 | **stSp** | *Streptochaeta spicata* | Anomochlooideae |
+| **phLa** | *Pharus latifolius* | Pharoideae |
 | **olLa** | *Olyra latifolia* | Bambusoideae |
 | **raGu** | *Raddia guianensis* | Bambusoideae |
-| **erCu** | *Eragrostis curvula* | Chloridoideae |
-| **orTh** | *Oropetium thomaeum* | Chloridoideae |
 | **lePe** | *Leersia perrieri* | Oryzoideae |
 | **orSa** | *Oryza sativa* | Oryzoideae |
-| **alse** | *Alloteropsis semialata* | Panicoideae |
-| **coLa** | *Coix lacryma-jobi* | Panicoideae |
-| **ecHa** | *Echinochloa haploclada* | Panicoideae |
-| **erOp** | *Eremochloa ophiuroides* | Panicoideae |
-| **paHa** | *Panicum hallii* | Panicoideae |
-| **saSp** | *Saccharum spontaneum* | Panicoideae |
-| **seVi** | *Setaria viridis* | Panicoideae |
-| **soBi** | *Sorghum bicolor* | Panicoideae |
-| **phLa** | *Pharus latifolius* | Pharoideae |
 | **aeBi** | *Aegilops bicornis* | Pooideae |
 | **aeSh** | *Aegilops sharonensis* | Pooideae |
 | **avAt** | *Avena atlantica* | Pooideae |
@@ -32,6 +22,16 @@ This module contains the source data and analytical scripts used to reconstruct 
 | **puTe** | *Puccinellia tenuiflora* | Pooideae |
 | **seCe** | *Secale cereale* | Pooideae |
 | **thEl** | *Thinopyrum elongatum* | Pooideae |
+| **alse** | *Alloteropsis semialata* | Panicoideae |
+| **coLa** | *Coix lacryma-jobi* | Panicoideae |
+| **ecHa** | *Echinochloa haploclada* | Panicoideae |
+| **erOp** | *Eremochloa ophiuroides* | Panicoideae |
+| **paHa** | *Panicum hallii* | Panicoideae |
+| **saSp** | *Saccharum spontaneum* | Panicoideae |
+| **seVi** | *Setaria viridis* | Panicoideae |
+| **soBi** | *Sorghum bicolor* | Panicoideae |
+| **erCu** | *Eragrostis curvula* | Chloridoideae |
+| **orTh** | *Oropetium thomaeum* | Chloridoideae |
 
 * **`Ancestral_Grass_Karyotype/`**: Houses the reconstructed ancestral grass karyotypes. To facilitate replication and further research, we provide the ancestral gene order and sequence formatted for both `jcvi` and `wgdi` input requirements.
 * **`Karyotype_Mapping/`**: Contains the vector-format karyotype diagrams presented in Figure 4. These figures visualize the macro-syntenic mapping results, illustrating the synteny blocks, breakpoints, and collinearity data that demonstrate the relationship between the post-ρ AGK and extant grass species.
