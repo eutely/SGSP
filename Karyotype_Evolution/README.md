@@ -53,5 +53,5 @@ By comparing the genomes of S. spicata, P. latifolius, and rice, it was determin
     * **Triticeae**: Underwent an additional reciprocal translocation (RT) event following its divergence from the ancestral node of Poaeae and Triticeae.
 ### **PACMAD Clade Dynamics**:
   * **Arundinoideae**: Identical to the post-ρ AGK, demonstrated by the complete chromosomal collinearity between Phragmites australis and rice.
-  * ![Arundinoideae](./png/Arundinoideae.jpg)
+    ![Arundinoideae](./png/Arundinoideae.jpg)
   * **Chloridoideae & Panicoideae**: The crown nodes of these subfamilies followed a shared trajectory, experiencing 1 RT, 1 EEJ, and 1 NCF event. This sequence resulted in a chromosome number reduction from 12 to 10. 
